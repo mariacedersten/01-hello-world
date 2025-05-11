@@ -1,0 +1,14 @@
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/bin/Debug/net8.0/hello-world
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/bin/Debug/net8.0/hello-world.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/bin/Debug/net8.0/hello-world.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/hello-world.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/hello-world.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/01-hello-world/hello-world/obj/Debug/net8.0/ref/hello-world.dll
